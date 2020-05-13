@@ -4,7 +4,7 @@
 - URL : [https://css-generator-react.now.sh/](https://css-generator-react.now.sh/)
 
 ## Description
-**CSS Generator** helps you create a faster CSS Box Shadow pattern, ưith photo description available on website when changing parameters.
+**CSS Generator** helps you create a faster CSS Box Shadow pattern, with photo description available on website when changing parameters.
 
 ## Installation
 - **Require** : GIT, NodeJS, NPM.
