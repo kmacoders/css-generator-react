@@ -1,0 +1,8 @@
+.PreviewBoxShadow {
+  display: flex;
+  flex-direction: column;
+}
+
+.PreviewBoxShadow div {
+  align-self: center;
+}
